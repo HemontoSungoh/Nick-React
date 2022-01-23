@@ -1,0 +1,22 @@
+/* navbar start  */
+.header-bg{
+    background-color: #FFF9F4;
+    height:100%;
+}
+.custom-btn-desgn{
+    background: linear-gradient(180deg, #3D4FF3 0%, #3543BC 100%);
+    border-radius: 10px;
+}
+.custom-btn-desgn img{
+    width: 18px;
+    height: 18px;
+}
+/* carousel start  */
+.carousel-bg-clr{
+    background-color: #ddd;
+    border-radius: 20px;
+   height: 90%;
+}
+.carousel-h2-clr{
+    color:#FA804C;
+}
